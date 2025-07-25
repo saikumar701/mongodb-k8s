@@ -23,6 +23,11 @@ This project demonstrates how to deploy **MongoDB** and **Mongo Express** using 
 
 - `kubectl delete all --all`  
   Deletes all deployments, services, pods, etc. (full cleanup)
+## 🔐 Default Mongo Express Login
+
+- **Username:** `admin`  
+- **Password:** `pass`
+
 
 ---
 
